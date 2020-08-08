@@ -2,3 +2,4 @@ node_modules
 *.sublime-project
 *.sublime-workspace
 app/css/style.css
+app/css/media.css
